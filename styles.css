@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+#section-attack{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+}
+/* #select-attack input{
+    display: none;
+
+}  */
+#select-attack p{
+    display: inline;
+    font-size: 55px;
+    
+}
+/* #who-win{
+    display: none;
+} */
+/* #select-attack label{
+    border: 5px solid blue;
+} */
