@@ -1,6 +1,4 @@
 
-
-let youWin
 let electionEnemiga
 let election
 
